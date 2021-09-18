@@ -26,3 +26,5 @@ diamond_sword_1.png
 but its quite easy to tell, the numbers on the folder name should make it pretty obvious.
 
 Yes, thats it. No headaches over what goes where, what does what, what predicates or whatever the heck those are, just two files, and one program.
+
+(Multiple json models and textures for a single item will work, just make sure to make the model data number different ofc)
